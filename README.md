@@ -5,7 +5,7 @@ Utility to convert Havok 2014-1-0 x32 files to FBX 2014.2.1
 
 Support
 ---------------------
-- x32 .hkt / .hkx / .xml
+- x32 .hkt / .hkx / .xml animation/skeleton
 
 Setup
 ---------------------
